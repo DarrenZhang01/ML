@@ -23,6 +23,6 @@
 (Main variables and methods)
 
 <p float="left">
-    <img src="tensorflow_optimizer_v2/tensorflow_optimizer_v2.jpg" width="500">
+    <img src="tensorflow_optimizer_v2/tensorflow_optimizer_v2.jpg">
 
 </p>
