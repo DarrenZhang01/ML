@@ -17,3 +17,12 @@
 </p>
 
 (jpg files from: https://www.kaggle.com/scolianni/mnistasjpg)
+
+
+## TensorFlow 2.x Optimizer V2 Architecture
+(Main variables and methods)
+
+<p float="left">
+    <img src="tensorflow_optimizer_v2/tensorflow_optimizer_v2.jpg" width="500">
+
+</p>
